@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+    margin:auto;
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 700px;
+    height: 680px;
+    opacity: 0.5;
+}
+
+.part-1 {
+    background-image:linear-gradient(indigo,red);
+    width: 700px;
+    height: 680px;
+    margin-right: 30px;
+}
+
+.header {
+    height: 80px;
+}
+
+.sign {
+    font-size: larger;
+    font-weight: 900;
+}
+
+/* .last-1,.last { 
+    display: flex;
+    margin: 0;
+    padding: 0;
+}*/
+
+.terms,.name {
+    font-weight: bold;
+}
+
+input {
+    border-top-style: hidden;
+    border-bottom-style: groove;
+    border-left-style: hidden;
+    border-right-style: hidden;
+}
+
+.outline:focus {
+    outline: none;
+}
+
+.btn {
+    display: flex;
+}
+
+.btn-1 {
+    font-weight: 600;
+    margin-left: 160px;
+}
+.btnn {
+    border-radius: 15px;
+    background-color: purple;
+    color: white;
+    width: 150px;
+    height: 30px;
+    margin-top: 15px;
+}
