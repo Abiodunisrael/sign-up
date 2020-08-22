@@ -1,5 +1,5 @@
 # form
-# Lifestyle Articles (Theme: Registration Platform)
+# (Theme: Sign_up page)
 
 ## Built With
 
@@ -32,8 +32,6 @@ To setup AWS access keys and other resources for file upload storage, follow [th
 - Create a new user and get the keys/credentials
 - Setup the credentials to get started
 
-
-### Usage
 
 ### Run tests
 Navigate to the project root directory and type:
